@@ -1,0 +1,33 @@
+.container{
+    position: relative;
+    margin: 0 auto;
+    margin-top: 15rem;
+    margin-left: 50rem;
+    /* display: flex;
+    align-items: center; */
+}
+
+hr{
+    /* display: flex;
+    align-items: center; */
+    margin-left: -1px;
+    width: 20rem;
+}
+.filme{
+    display: flex;
+    align-items: baseline;
+}
+.tempo{
+    display: flex;
+    align-items: baseline;
+}
+.inputFilme{
+    margin-left: 5px;
+}
+.inputDuracao{
+    margin-left: 5px;
+}
+
+button{
+    margin-top: 10px;
+}

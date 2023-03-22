@@ -1,0 +1,37 @@
+.container{
+    position: relative;
+    margin: 0 auto;
+    margin-top: 15rem;
+    margin-left: 50rem;
+    /* display: flex;
+    align-items: center; */
+}
+
+.kgBuffet{
+    display: flex;
+    align-items: baseline;
+}
+
+.uso{
+    display: flex;
+    align-items: baseline;
+}
+
+.inputBuffet{
+    margin-left: 5px;
+}
+
+.inputConsumo{
+    margin-left: 5px;
+}
+
+button{
+    margin-top: 10px;
+}
+
+hr{
+    /* display: flex;
+    align-items: center; */
+    margin-left: -1px;
+    width: 20rem;
+}

@@ -1,0 +1,33 @@
+.container{
+    position: relative;
+    margin: 0 auto;
+    margin-top: 15rem;
+    margin-left: 50rem;
+    /* display: flex;
+    align-items: center; */
+}
+
+hr{
+    /* display: flex;
+    align-items: center; */
+    margin-left: -1px;
+    width: 20rem;
+}
+.automovel{
+    display: flex;
+    align-items: baseline;
+}
+.preco{
+    display: flex;
+    align-items: baseline;
+}
+.inputModelo{
+    margin-left: 5px;
+}
+.inputPreco{
+    margin-left: 5px;
+}
+
+button{
+    margin-top: 10px;
+}
